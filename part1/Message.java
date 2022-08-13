@@ -21,6 +21,9 @@ Write a message:
 Bye
 Bye
 
+Write a message:
+Once upon a time...
+Once upon a time...
 
 */
 import java.util.Scanner;
