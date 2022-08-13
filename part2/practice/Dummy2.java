@@ -1,5 +1,6 @@
 /*
  What does the program below print?
+ 
 */
 public class Dummy2{
 public static void main(String[] args) {
