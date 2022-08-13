@@ -1,5 +1,5 @@
 /*
-
+DUmmy
 The output of the program can be as follows:
 --------------------------------------------
 Input a number, 0 to quit
